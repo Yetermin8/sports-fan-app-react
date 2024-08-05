@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/sports-fan-app-react/static/js/main.8a8c094c.js",
+    "static/media/NBA.png": "/sports-fan-app-react/static/media/NBA.88bb9637b322a73f8ab6.png",
+    "static/media/Futbol.png": "/sports-fan-app-react/static/media/Futbol.af8682c4d55385654b76.png",
+    "static/media/NFL.png": "/sports-fan-app-react/static/media/NFL.518cc6efd08a6a1e2382.png",
+    "static/media/Atletico Madrid.jpg": "/sports-fan-app-react/static/media/Atletico Madrid.d0d97fcd04fb35a95c51.jpg",
+    "static/media/Barcelona.jpg": "/sports-fan-app-react/static/media/Barcelona.f1c46b15c8dbc2de845e.jpg",
+    "static/media/Serie A.png": "/sports-fan-app-react/static/media/Serie A.a770b0441b1bd7a500dc.png",
+    "static/media/La Liga.png": "/sports-fan-app-react/static/media/La Liga.1dad48218678969d57ec.png",
+    "static/media/Real Madrid.png": "/sports-fan-app-react/static/media/Real Madrid.74ce3180e79f74e731ac.png",
+    "index.html": "/sports-fan-app-react/index.html",
+    "main.8a8c094c.js.map": "/sports-fan-app-react/static/js/main.8a8c094c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8a8c094c.js"
+  ]
+}
