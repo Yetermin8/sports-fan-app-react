@@ -52,7 +52,6 @@ document.addEventListener('DOMContentLoaded', function() {
         body.classList.toggle('light-mode');
     });
 
-    // Ensure default theme
     if (!body.classList.contains('dark-mode') && !body.classList.contains('light-mode')) {
         body.classList.add('light-mode');
     }

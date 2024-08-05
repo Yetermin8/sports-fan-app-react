@@ -96,10 +96,6 @@ h1, h2, h5, .card-title, .form-label, .form-control, .btn {
     color: #fff;
 }
 
-.dark-mode .image-label {
-    color: #000; 
-}
-
 .dark-mode .card-body .btn {
     background-color: #444;
     color: #fff;
@@ -158,4 +154,8 @@ input:focus, textarea:focus {
 
 .dark-mode .autocomplete-suggestion:hover {
     background: #555;
+}
+
+#theme-switcher {
+    color: inherit;
 }
