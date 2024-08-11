@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sports-fan-app-react/static/css/main.b0b6caa9.css",
-    "main.js": "/sports-fan-app-react/static/js/main.47530aff.js",
+    "main.js": "/sports-fan-app-react/static/js/main.518fc667.js",
     "static/media/NBA.png": "/sports-fan-app-react/static/media/NBA.88bb9637b322a73f8ab6.png",
     "static/media/Futbol.png": "/sports-fan-app-react/static/media/Futbol.af8682c4d55385654b76.png",
     "static/media/NFL.png": "/sports-fan-app-react/static/media/NFL.518cc6efd08a6a1e2382.png",
@@ -12,10 +12,10 @@
     "static/media/Real Madrid.png": "/sports-fan-app-react/static/media/Real Madrid.74ce3180e79f74e731ac.png",
     "index.html": "/sports-fan-app-react/index.html",
     "main.b0b6caa9.css.map": "/sports-fan-app-react/static/css/main.b0b6caa9.css.map",
-    "main.47530aff.js.map": "/sports-fan-app-react/static/js/main.47530aff.js.map"
+    "main.518fc667.js.map": "/sports-fan-app-react/static/js/main.518fc667.js.map"
   },
   "entrypoints": [
     "static/css/main.b0b6caa9.css",
-    "static/js/main.47530aff.js"
+    "static/js/main.518fc667.js"
   ]
 }
