@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <ThemeProvider>
-    <Router>
+    <Router basename="/sports-fan-app-react">
       <App />
     </Router>
   </ThemeProvider>
